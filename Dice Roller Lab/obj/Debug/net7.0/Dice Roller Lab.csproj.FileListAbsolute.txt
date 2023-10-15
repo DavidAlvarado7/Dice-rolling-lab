@@ -1,0 +1,15 @@
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/bin/Debug/net7.0/Dice Roller Lab
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/bin/Debug/net7.0/Dice Roller Lab.deps.json
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/bin/Debug/net7.0/Dice Roller Lab.runtimeconfig.json
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/bin/Debug/net7.0/Dice Roller Lab.dll
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/bin/Debug/net7.0/Dice Roller Lab.pdb
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.csproj.AssemblyReference.cache
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.AssemblyInfoInputs.cache
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.AssemblyInfo.cs
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.csproj.CoreCompileInputs.cache
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.dll
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/refint/Dice Roller Lab.dll
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.pdb
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/Dice Roller Lab.genruntimeconfig.cache
+/Users/david/Projects/Dice Roller Lab/Dice Roller Lab/obj/Debug/net7.0/ref/Dice Roller Lab.dll
